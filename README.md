@@ -1,2 +1,2 @@
-## Hey there! It's Andromeda
-print("Hello World!")
+## Hello World! It's Andromeda
+
