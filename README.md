@@ -1,2 +1,9 @@
 ## Hello World! It's Andromeda
+I am heavily interested in **emulation**, specifically emulation on Android! I also like knowing how the open source applications that I use work.
 
+## Emulation on Android
+Many of the Emulators built for android are open source and made on github. PC emulators like **bannerhub** and **winlator** are always being worked on and forked. In this environment, where there is a lot left to be added and worked on, it often takes months if not years for a small feature that you've wanted to be added. My solution to this issue was to create my own Github account and fork these emulators myself to add these small features that want.
+
+## Understanding Wine and Proton
+Wine is a translation layer that allows for linux devices to be able to read and write to windows executables. Proton is based on Wine and goes a step further.  
+Proton is a compatibility layer that allows for programs made for the x86 architecture to be interacted with in through the arm architecture. x86 architecture is seen in most PCs and most videogames are created for this architecture. The arm architcture however is used in mobile devices like some laptops, all phones, and all apple devices. arm processors are used in mobile devices because they are more efficient and draw much less power, allowing for the devices to maintain charge better. However, nowadays, arm processors are becoming more and more powerful and can handle running PC games. But since the architecture was not compatible arm processors needed a compatibility layer to run these games and thats where Proton comes in. 
