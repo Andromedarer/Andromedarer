@@ -1,5 +1,5 @@
 ## Hello World! It's Andromeda
-I am heavily interested in **emulation**, specifically emulation on Android! I also like knowing how the open source applications that I use work.
+I am heavily interested in **emulation**, specifically emulation on Android! I also like knowing how the open source applications that I use work. I have Experience in Lua, Python, and Swift.
 
 ## Emulation on Android
 Many of the Emulators built for android are open source and made on github. PC emulators like **bannerhub** and **winlator** are always being worked on and forked. In this environment, where there is a lot left to be added and worked on, it often takes months if not years for a small feature that you've wanted to be added. My solution to this issue was to create my own Github account and fork these emulators myself to add these small features that want.
